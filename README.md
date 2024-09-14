@@ -20,6 +20,6 @@ This project focuses on analyzing Diwali sales data to optimize inventory and ma
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/Shinchan24/Diwali-sales-analysis.git
 
 
